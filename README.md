@@ -109,7 +109,7 @@ footer {
 <div class="section">
     <h2>Kontak</h2>
     <p>Email: dishub@email.com</p>
-    <p>Telp: 08xxxxxxx</p>
+    <p>HP: 08xxxxxxx</p>
 </div>
 
 <footer>
